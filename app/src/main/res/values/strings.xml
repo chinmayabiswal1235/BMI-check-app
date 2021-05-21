@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMICheck</string>
+    <string name="bmi_calculatur">BMI CALCULATUR</string>
+    <string name="check">check</string>
+    <string name="line">...................</string>
+    <string name="_1_88">1.88</string>
+    <string name="youe_bmi_category_shows_here">Youe BMI category shows here</string>
+    <string name="enter_your_height_m">Enter your height (m):</string>
+    <string name="enter_your_weight_kg">Enter your weight (Kg):</string>
+    <string name="your_bmi">Your BMI:</string>
+    <string name="_80">80</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+</resources>
